@@ -1,0 +1,11 @@
+.log-in{
+    border: 1px solid rebeccapurple;
+    border-radius:5px;
+    margin-left: 35%;
+    margin-right: 35%;
+    padding: 2%;
+}
+.welcome-message{
+    text-align: center;
+    margin-top: 100px;
+}
